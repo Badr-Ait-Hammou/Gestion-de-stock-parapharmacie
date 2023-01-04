@@ -1,0 +1,16 @@
+C:\Users\badra\source\repos\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\badra\source\repos\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\badra\source\repos\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\badra\source\repos\Exam\Exam\obj\Debug\Exam.csproj.AssemblyReference.cache
+C:\Users\badra\source\repos\Exam\Exam\obj\Debug\Exam.csproj.SuggestedBindingRedirects.cache
+C:\Users\badra\source\repos\Exam\Exam\obj\Debug\Exam.Form1.resources
+C:\Users\badra\source\repos\Exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+C:\Users\badra\source\repos\Exam\Exam\obj\Debug\Exam.csproj.GenerateResource.cache
+C:\Users\badra\source\repos\Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\Users\badra\source\repos\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\badra\source\repos\Exam\Exam\obj\Debug\Exam.pdb
+C:\Users\badra\source\repos\Exam\Exam\bin\Debug\Guna.UI2.dll
+C:\Users\badra\source\repos\Exam\Exam\obj\Debug\Exam.csproj.CopyComplete
+C:\Users\badra\source\repos\Exam\Exam\obj\Debug\Exam.User_controll.dashboard.resources
+C:\Users\badra\source\repos\Exam\Exam\obj\Debug\Exam.User_controll.Produit.resources
+C:\Users\badra\source\repos\Exam\Exam\obj\Debug\Exam.User_controll.Chart.resources
