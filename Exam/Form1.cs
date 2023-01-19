@@ -66,8 +66,72 @@ namespace Exam
 
         private void produitbtn_Click(object sender, EventArgs e)
         {
-            Produit p = new Produit();
+            Produit_control p = new Produit_control();
             addusercontrol(p);
+        }
+
+        private void guna2GradientButton3_Click(object sender, EventArgs e)
+        {
+            /* Loginform log = new Loginform();
+             log.Show();
+            */
+            this.Close();
+            Loginform log = new Loginform();
+            log.Show();
+
+        }
+
+        private void guna2GradientButton6_Click(object sender, EventArgs e)
+        {
+            Fabricants_control fabricants = new Fabricants_control();
+            addusercontrol(fabricants);
+        }
+
+        private void guna2GradientButton2_Click(object sender, EventArgs e)
+        {
+            Users_control users = new Users_control();
+            addusercontrol(users);
+        }
+
+        private void guna2GradientButton9_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void guna2GradientButton8_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Minimized;
+        }
+
+        private void guna2GradientButton5_Click(object sender, EventArgs e)
+        {
+            Categorie_control categorie = new Categorie_control();
+            addusercontrol(categorie);
+        }
+
+        private void guna2GradientButton7_Click(object sender, EventArgs e)
+        {
+            Commandes_control soldproduct = new Commandes_control();
+            addusercontrol(soldproduct);
+        }
+
+        private void guna2GradientButton10_Click(object sender, EventArgs e)
+        {
+            List_Des_Commande ls = new List_Des_Commande();
+            addusercontrol(ls);
+        }
+
+        private void loginbutton_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            Loginform log = new Loginform();
+            log.Show();
+        }
+
+        private void guna2GradientButton3_Click_1(object sender, EventArgs e)
+        {
+            OutOfStock_contrel ofs = new OutOfStock_contrel();
+            addusercontrol(ofs);
         }
     }
 }
